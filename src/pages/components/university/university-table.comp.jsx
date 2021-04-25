@@ -32,6 +32,29 @@ const UniversityTable = () => {
                 <td ><StudentRegistration student={{name:"Carlos Garcia"}} /></td>
                 <td ><StudentRegistration student={{grade:"5.0"}} /></td>
                 <td ><StudentRegistration student={{gender:""}} /><img src={logo} alt="logo" width="30px"/></td>     
+                </tr>
+
+                <tr>
+                <td ><StudentRegistration student={{name:"Felipe Gonzales"}} /></td>
+                <td ><StudentRegistration student={{grade:"3.5"}} /></td>
+                <td ><StudentRegistration student={{gender:"", }} /> <img src={logo} alt="logo" width="30px"/></td>     
+                </tr>
+                
+                <tr>
+                <td ><StudentRegistration student={{name:"Adriana Giraldo"}} /></td>
+                <td ><StudentRegistration student={{grade:"4.9"}} /></td>
+                <td ><StudentRegistration student={{gender:""}} /> <img src={logo1} alt="logo1" width="30px"/></td>     
+                </tr>
+                
+                <tr>
+                <td ><StudentRegistration student={{name:"Julio Granados"}} /></td>
+                <td ><StudentRegistration student={{grade:"1.6"}} /></td>
+                <td ><StudentRegistration student={{gender:""}} /><img src={logo} alt="logo" width="30px"/></td>     
+                </tr>
+                <tr>
+                <td ><StudentRegistration student={{name:"Pablo Perez"}} /></td>
+                <td ><StudentRegistration student={{grade:"3.6"}} /></td>
+                <td ><StudentRegistration student={{gender:""}} /><img src={logo} alt="logo" width="30px"/></td>     
                 </tr>  
             </table>
 
@@ -54,7 +77,30 @@ const UniversityTable = () => {
                 <td ><StudentRegistration student={{name:"Maria Quintero"}} /></td>
                 <td ><StudentRegistration student={{grade:"3.3"}} /></td>
                 <td ><StudentRegistration student={{gender:""}} /><img src={logo1} alt="logo1" width="30px"/></td>     
-                </tr>  
+                </tr>
+
+                 <tr>
+                <td ><StudentRegistration student={{name:"Ernesto Gutierrez"}} /></td>
+                <td ><StudentRegistration student={{grade:"3.5"}} /></td>
+                <td ><StudentRegistration student={{gender:"", }} /> <img src={logo} alt="logo" width="30px"/></td>     
+                </tr>
+                
+                <tr>
+                <td ><StudentRegistration student={{name:"Paola Buitrago"}} /></td>
+                <td ><StudentRegistration student={{grade:"2.4"}} /></td>
+                <td ><StudentRegistration student={{gender:""}} /> <img src={logo1} alt="logo1" width="30px"/></td>     
+                </tr>
+                
+                <tr>
+                <td ><StudentRegistration student={{name:"Nestor Giraldo"}} /></td>
+                <td ><StudentRegistration student={{grade:"4.6"}} /></td>
+                <td ><StudentRegistration student={{gender:""}} /><img src={logo} alt="logo" width="30px"/></td>     
+                </tr>
+                <tr>
+                <td ><StudentRegistration student={{name:"Pepito Sanchez"}} /></td>
+                <td ><StudentRegistration student={{grade:"3.6"}} /></td>
+                <td ><StudentRegistration student={{gender:""}} /><img src={logo} alt="logo" width="30px"/></td>     
+                </tr>    
             </table>
 
             <CourseTable categoryName="Networks II" />
@@ -76,6 +122,24 @@ const UniversityTable = () => {
                 <td ><StudentRegistration student={{name:"Olga Prieto"}} /></td>
                 <td ><StudentRegistration student={{grade:"2.1"}} /></td>
                 <td ><StudentRegistration student={{gender:""}} /><img src={logo1} alt="logo1" width="30px"/></td>     
+                </tr>
+
+                 <tr>
+                <td ><StudentRegistration student={{name:"Olga Vuenaventura"}} /></td>
+                <td ><StudentRegistration student={{grade:"2.3"}} /></td>
+                <td ><StudentRegistration student={{gender:""}} /><img src={logo1} alt="logo1" width="30px"/></td>     
+                </tr>
+
+                 <tr>
+                <td ><StudentRegistration student={{name:"Jose Alvarez"}} /></td>
+                <td ><StudentRegistration student={{grade:"1.5"}} /></td>
+                <td ><StudentRegistration student={{gender:"", }} /> <img src={logo} alt="logo" width="30px"/></td>     
+                </tr>
+                
+                <tr>
+                <td ><StudentRegistration student={{name:"Andrea Palacio"}} /></td>
+                <td ><StudentRegistration student={{grade:"4.4"}} /></td>
+                <td ><StudentRegistration student={{gender:""}} /> <img src={logo1} alt="logo1" width="30px"/></td>     
                 </tr>  
             </table>
 
