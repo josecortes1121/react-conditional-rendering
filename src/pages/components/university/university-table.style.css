@@ -1,0 +1,22 @@
+.university-table-container {
+width: 35%;
+margin: auto;
+border: 10px solid rgb(187, 235, 160) ;
+background-color: rgb(232, 248, 228)
+}
+
+th {
+    width: 129px;
+    margin: auto;
+    vertical-align: top;
+    border: 1px solid #000;
+    border-spacing: 0;
+ }
+ 
+ td {
+    width: 129px;
+    margin: auto;
+    vertical-align: top;
+    border: 1px solid #000;
+    border-spacing: 0;
+ }

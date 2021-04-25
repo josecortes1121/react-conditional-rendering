@@ -1,0 +1,10 @@
+.course-table-container {
+width: 98%;
+margin: auto;
+height: 35px;
+border: 2px solid rgb(0, 0, 0) ;
+margin-top: 2px;
+font-weight: bolder;
+background-color: rgb(187, 235, 160);
+}
+
